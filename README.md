@@ -8,10 +8,10 @@ Run the code
 Now, when the command line says 'listening...', start speaking.
 
 Keep in mind that this is very very basic and only certain commands work.
-For example, you could say:
-"play Rick Astley"
-"tell me the time"
-"tell me a joke"
+For example, you could say:<br>
+"play Bohemian Rhapsody"<br>
+"tell me the time"<br>
+"tell me a joke"<br>
 
 Any suggestions?
 [Mail them here.](mailto:asundiaditya@gmail.com)
